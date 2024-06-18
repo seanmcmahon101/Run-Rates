@@ -2,10 +2,11 @@
 
 ## Overview/How-To-Use
 
-1. **Running the Program**: Double Click to .exe file
-2. **Using the Interface**: You can either manually edit the cell run rates or paste the run rates from the live sheet into the box at the bottom.
-3. **Run**: First - Press update the cell rate then press svae, the program will then run in the background
-4. **Completion**: When the program is done an excel sheet with the output will be created.
+1. **Uzip the folder to a selected destination** Keep the exe file in the main folder
+2. **Running the Program**: Double Click to .exe file
+3. **Using the Interface**: You can either manually edit the cell run rates or paste the run rates from the live sheet into the box at the bottom.
+4. **Run**: First - Press update the cell rate then press svae, the program will then run in the background
+5. **Completion**: When the program is done an excel sheet with the output will be created.
 
 ## TECHNICAL STUFF 
 
